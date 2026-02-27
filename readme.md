@@ -15,6 +15,6 @@ Usage
 ```bash
 conda activate ecg_acq
 venv\Scripts\activate
-pip install -r requirementx.txt
+pip install -r requirements.txt
 python DAQmxGUI.py
 ```
