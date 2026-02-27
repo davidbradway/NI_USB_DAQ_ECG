@@ -1,3 +1,7 @@
+# Data
+*.csv
+*.json
+
 # Virtual Environment
 venv/
 env/
