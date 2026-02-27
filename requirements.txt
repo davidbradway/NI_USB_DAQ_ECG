@@ -1,1 +1,4 @@
 nidaqmx
+matplotlib
+pandas
+tables
